@@ -1,7 +1,7 @@
 # brain-tumor-object-dectection
 Detection of brain tumor and bounding box of RM images
 
-# requirements
+# Requirements
 Google collab
 
 # To load the dataset 
