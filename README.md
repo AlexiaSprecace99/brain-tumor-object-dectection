@@ -1,5 +1,5 @@
 # brain-tumor-object-dectection
-Detection of brain tumor and bounding box of RM images
+Detection of brain tumor and bounding box of MRI images
 
 # Requirements
 The notebooks are made to work on Google colab
